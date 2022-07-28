@@ -5,10 +5,10 @@ element.style {
   
 .btmenu {
     margin: 5px 2.1% 0px;
-    border: 10px solid #244b9a;
+    border: 0px solid #244b9a;
     color: white;
     border-radius: 8px;
-    padding: 15px 5px;
+    padding: 0px 0px;
     text-transform: uppercase;
     background: #244b9a;
     text-align: center;
@@ -16,10 +16,9 @@ element.style {
    }
 
   .text1 {
-    margin: 5px 2.1% 0px;
-    border: 10px solid #244b9a;
+      
     color: white;
-    border-radius: 8px;
+    border-radius: 0px;
     padding: 0px 0px;
     text-transform: uppercase;
     background: #244b9a;
