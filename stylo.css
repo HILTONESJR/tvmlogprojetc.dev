@@ -2,10 +2,10 @@
   
 .btmenu {
     margin: 5px 2.1% 0px;
-    border: 0px solid #244b9a;
+    border: 5px solid #244b9a;
     color: white;
     border-radius: 8px;
-    padding: 0px 0px;
+    padding: 4px 4px;
     text-transform: uppercase;
     background: #244b9a;
     text-align: center;
