@@ -1,5 +1,5 @@
 #container1 {
-    width: 400px;
+    width: 350px;
     height: 300px;
     display: inline-block;
     margin: 7px;
@@ -7,14 +7,14 @@
 }
 
 #container2 {
-    width: 400px;
+    width: 350px;
     height: 300px;
     display: inline-block;
     margin: 7px;
     text-align: center;
 }
 #container3 {
-    width: 400px;
+    width: 350px;
     height: 300px;
     display: inline-block;
     margin: 7px;
