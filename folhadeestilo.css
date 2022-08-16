@@ -1,8 +1,16 @@
-#container1: {
-  inline-block;
- 
+#container1 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
 }
 
-#container2: {
-  inline-block;
+#container2 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#container3 {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
 }
